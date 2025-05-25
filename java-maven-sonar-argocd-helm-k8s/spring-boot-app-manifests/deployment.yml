@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: swaroopsakhare/ci-cd-jenkinspipeline:replaceImageTag
+        image: swaroopsakhare/ci-cd-jenkinspipeline:8
         ports:
         - containerPort: 8080
